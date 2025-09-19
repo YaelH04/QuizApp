@@ -7,7 +7,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <!-- Contenedor vertical centrado -->
     <LinearLayout
         android:id="@+id/contenedor"
         android:layout_width="wrap_content"
@@ -19,7 +18,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent">
 
-        <!-- Texto -->
         <TextView
             android:id="@+id/textView"
             android:layout_width="wrap_content"
@@ -30,7 +28,6 @@
             android:gravity="center"
             android:layout_marginBottom="20dp"/>
 
-        <!-- Botones en horizontal -->
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
