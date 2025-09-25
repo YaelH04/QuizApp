@@ -7,6 +7,10 @@ android {
     namespace = "com.yael.quizapp"
     compileSdk = 36
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.yael.quizapp"
         minSdk = 24

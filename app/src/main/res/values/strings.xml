@@ -1,6 +1,18 @@
 <resources>
     <string name="app_name">QuizApp</string>
+
     <string name="pregunta_q">¿El Monte Everest es la montaña más alta del mundo?</string>
+    <string name="pregunta_australia">Canberra es la capital de Australia.</string>
+    <string name="pregunta_oceanos">El Océano Pacífico es más grande que el Océano Atlántico.</string>
+    <string name="pregunta_mideast">El Canal de Suez conecta el Mar Rojo y el Océano Índico.</string>
+    <string name="pregunta_africa">La fuente del río Nilo está en Egipto.</string>
+    <string name="pregunta_americas">El río Amazonas es el río más largo de las Américas.</string>
+    <string name="pregunta_asia">El lago Baikal es el lago de agua dulce más antiguo y profundo del mundo.</string>
+
     <string name="btn_v">Verdadero</string>
     <string name="btn_f">Falso</string>
+    <string name="btn_sig">Siguiente</string>
+
+    <string name="msg_correcto">¡Correcto!</string>
+    <string name="msg_incorrecto">¡Incorrecto!</string>
 </resources>
